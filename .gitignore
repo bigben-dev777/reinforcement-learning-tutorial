@@ -1,2 +1,2 @@
-.idea
-__pycache__
+# Exclude setup script
+setup-git.bat
